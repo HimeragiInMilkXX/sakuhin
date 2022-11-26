@@ -1,0 +1,3 @@
+Python 3.10.7 or above
+Pygame 2.1.2 or above
+
